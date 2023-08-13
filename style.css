@@ -2,8 +2,12 @@ h1 {
     background-color: aqua;
 }
 
-h4 {
+/* h4 {
     color: red;
-}
+} */
 
 /* First comment in this file */
+
+.color-h4 {
+    color:red;
+}
